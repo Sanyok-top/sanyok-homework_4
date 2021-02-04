@@ -211,8 +211,8 @@ body{
 }
 
 .block2{
-	/* max-width:1600px ; */
-	max-height: 917px;
+
+	min-height: 917px;
 	
 }
 
